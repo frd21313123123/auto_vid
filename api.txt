@@ -1,2 +1,2 @@
-google = "AIzaSyAMMtLpFCNqnUlNCnDdCzVma0U7VHhEkjQ"
-ed = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYjRkOTk4YTItNzEyMS00MDcxLWEwNGQtNzIzNmQxNTUyMzA3IiwidHlwZSI6ImFwaV90b2tlbiJ9.fACCPLR-TDYg8kgK_Wv7WFa1J7eXswFnM_NjeWt7Kjg"
+google = ""
+ed = ""
